@@ -6,8 +6,8 @@
 }
 
 .homeleft {
-  background-image: linear-gradient(to right, #fff5bc, #cec1ff);
-
+  /* background-image: linear-gradient(to right, #f7f0ca, #dcd5f8); */
+  background-color: rgb(77, 77, 82);
   overflow-y: auto;
   display: flex;
   flex-direction: column;
